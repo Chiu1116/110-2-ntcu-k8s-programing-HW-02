@@ -17,4 +17,3 @@ spec:
         - name: orange-apps
           image: acs108102/incluster:latest
           imagePullPolicy: IfNotPresent
-
